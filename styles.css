@@ -4,7 +4,6 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    text-decoration: none;
 }
 
 header {
@@ -22,7 +21,6 @@ label.logo{
 }
 
 nav ul {
-    font-family: montserrat;
     float: right;
     margin-right: 20px;
     list-style: none;
@@ -32,22 +30,17 @@ nav ul {
 
 nav ul li {
     display: inline-block;
-    line-height: 80px;
-    margin: 0 5px;
    
 }
 
 nav ul li a {
+    font-family: montserrat;
     color: #fff;
-    font-size: 25px
     text-decoration: none;
-    
 }
 nav ul li a:hover {
    background-color: #4e4c46;
 }
-
-
 .container {
     width: 80%;
     margin: 20px auto;
@@ -56,6 +49,7 @@ nav ul li a:hover {
 
 .container h1 {
     font-size: 36px;
+    text-align: center;
 }
 
 /* Add more styles as needed */
