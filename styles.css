@@ -6,9 +6,9 @@ body {
 }
 
 header {
-    background-color: purple;
+    background-color:#FFB641;
     color: #fff;
-    padding: 10px 0;
+    padding: 20px 0;
 }
 
 nav ul {
@@ -25,6 +25,11 @@ nav ul li {
 nav ul li a {
     color: #fff;
     text-decoration: none;
+    display: block;
+    
+}
+nav ul li a:hover {
+   background-color: #4e4c46;
 }
 
 .container {
