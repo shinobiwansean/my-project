@@ -25,7 +25,7 @@ nav ul li {
 nav ul li a {
     color: #fff;
     text-decoration: none;
-    display: block;
+    display:inline-block;
     
 }
 nav ul li a:hover {
