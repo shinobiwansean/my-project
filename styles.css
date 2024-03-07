@@ -35,8 +35,10 @@ nav ul li {
 
 nav ul li a {
     font-family: montserrat;
+    font-size: 35px;
     color: #fff;
     text-decoration: none;
+    font-weight: bold;
 }
 nav ul li a:hover {
    background-color: #4e4c46;
